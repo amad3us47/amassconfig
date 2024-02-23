@@ -1,8 +1,4 @@
-$CONFIG FOR AMASS 
-                                 
-                               
-                               
-amass is natively installed in kali linux no need to pull repo
+#CONFIG FOR AMASS 
  
     amass enum -d example.com -config config.ini
   
